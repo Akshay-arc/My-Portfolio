@@ -2,7 +2,7 @@
 <br />
 
 <div align="center">
-   <img src='https://github.com/Akshay-arc/My-Portfolio/blob/6724966d43c1cb93eb0d3a302fe8cd5dd76fc4f3/image-236x212.jpg' />
+   <img src='https://github.com/Akshay-arc/My-Portfolio/blob/abe700570682498b33e1e4ced5fd7b5849e5fb6b/image-236x212.jpg' />
 
 
 <h3 align="center">
