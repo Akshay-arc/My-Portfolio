@@ -12,7 +12,7 @@
   <h2> AKSHAY </h2>
 </div>
 
-# Course Report
+# Intro
 
 ## Name: AKSHAY KISHOR NEHETE
 
