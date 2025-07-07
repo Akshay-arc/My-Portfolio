@@ -15,11 +15,11 @@
 
 # Intro
 
-## Name: ## AKSHAY KISHOR NEHETE
+## Name: AKSHAY KISHOR NEHETE
 
-## Education: ## MCA
+## Education: MCA
 
-## Contact: ## akshaynehete8055@gmail.com
+## Contact: akshaynehete8055@gmail.com
 
 Welcome to the Project report! This README document provides an overview of the project.
 
