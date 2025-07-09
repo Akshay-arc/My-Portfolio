@@ -10,7 +10,7 @@
   <a href="https://github.com/Akshay-arc">GitHub</a> |
   <a href="https://www.linkedin.com/in/akshay-nehete">LinkedIn</a>
 </h3>
-  <h2> AKSHAY </h2>
+  <h2> Hi 👋, I'm AKSHAY </h2>
 </div>
 
 # Intro
@@ -24,8 +24,6 @@
 Welcome to the Project report! This README document provides an overview of the project.
 
 ### PROJECT
-
-<h3 align="center">Hi 👋, I'm a developer from India</h3>
 
 - 🔭 I’m currently working on **Project Liquid**
 
