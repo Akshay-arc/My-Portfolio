@@ -25,6 +25,8 @@ Welcome to the Project report! This README document provides an overview of the 
 
 ### PROJECT
 
+- 🔭 I’m currently working on **Project Liquid**
+
 Below table is a Summary of Completed Projects with GitHub Links:
 
 | Description                                                           | Link                                                                                         |
@@ -40,12 +42,6 @@ Below table is a Summary of Completed Projects with GitHub Links:
 <h3 align="center">Hi 👋, I'm a developer from India</h3>
 
 
-
-- 🔭 I’m currently working on **Project Liquid**
-
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Akshay-arc/My-Portfolio">Link</a>
-
-- 📫 How to reach me **akshaynehete8055@gmail.com**
 
 
 
