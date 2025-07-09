@@ -5,7 +5,6 @@
    <img src='https://github.com/Akshay-arc/My-Portfolio/blob/63628724188aad219abc75115ef7d507b994d12f/image-236x212.png' />
 
 
-  <h2> AKSHAY </h2>
 <h3 align="center">
   <a href="https://github.com/Akshay-arc">GitHub</a> |
   <a href="https://www.linkedin.com/in/akshay-nehete">LinkedIn</a>
